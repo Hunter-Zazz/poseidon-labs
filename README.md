@@ -40,7 +40,7 @@ The standard is: **do not trust the claim; inspect the work.**
 
 | Project | Status | Purpose |
 | --- | --- | --- |
-| `system-collector/` | Publication review | Read-only Linux system information collection and reporting |
+| `system-collector/` | VERIFIED BY ARTEFACT | Read-only Linux system information collection and reporting |
 | `file-integrity-checker/` | Publication review | SHA-256 local integrity baselining and change detection |
 | `network-snapshot/` | In development | Read-only local network configuration snapshot |
 | `log-analysis/` | Planned | Parse and summarise selected Linux/security logs using safe sample data |
