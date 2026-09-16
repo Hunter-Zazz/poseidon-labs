@@ -1,0 +1,21 @@
+{
+  "collected_at_utc": "2026-01-01T00:00:00+00:00",
+  "os": "Example Linux 1",
+  "kernel": "6.0.0-example",
+  "python_version": "3.13.0",
+  "cpu": {
+    "architecture": "x86_64",
+    "logical_count": 4
+  },
+  "memory": {
+    "total_bytes": 8589934592,
+    "available_bytes": 5368709120
+  },
+  "disk": {
+    "path": "/home/example/project",
+    "total_bytes": 268435456000,
+    "used_bytes": 107374182400,
+    "free_bytes": 161061273600
+  },
+  "uptime_seconds": 123456.0
+}
