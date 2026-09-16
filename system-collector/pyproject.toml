@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=61"]
+requires = ["setuptools>=77"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -7,7 +7,8 @@ name = "poseidon-system-collector"
 version = "0.1.0"
 description = "Read-only Linux system information collector from Project Poseidon"
 requires-python = ">=3.10"
-license = {file = "../LICENSE"}
+license = "MIT"
+license-files = ["LICENSE"]
 
 [project.optional-dependencies]
 test = ["pytest>=8"]
