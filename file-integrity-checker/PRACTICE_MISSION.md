@@ -3,7 +3,7 @@
 From the repository root on Linux (in either a worktree or the main checkout):
 
 ```bash
-cd 12_ENGINE_ROOM/projects/02_file_integrity
+cd file-integrity-checker
 /usr/bin/python3 practice.py
 ```
 
